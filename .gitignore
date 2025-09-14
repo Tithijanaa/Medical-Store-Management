@@ -1,0 +1,20 @@
+# Python cache files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# SQLite database (don’t upload local data)
+*.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
